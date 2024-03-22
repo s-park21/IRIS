@@ -25,9 +25,9 @@ This document provides information about the IRIS Communications Protocol, versi
 
 To use the IRIS Communications Protocol in your project, follow these steps:
 Using SSH:  
-`git clone git@github.com:s-park21/CHIRP.git`  
+`git clone git@github.com:s-park21/IRIS.git`  
 Using HTTPS:  
-`git clone https://github.com/s-park21/CHIRP.git`  
+`git clone https://github.com/s-park21/IRIS.git`  
 
 ## Usage
 ### Packet encoding:  
